@@ -5,8 +5,7 @@ print("*************************************")
 
 #Receive user's age input
 
-age = input("How old are you?\n")
-age = int(age)
+age = int(input("How old are you? "))
 
 CURRENT_YEAR = 2023
 EXPECTED_YEAR = 2050
