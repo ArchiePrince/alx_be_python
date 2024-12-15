@@ -1,6 +1,6 @@
-print("***********************************************")
-print("This solution calculates ages in specific years")
-print("***********************************************")
+print("*************************************")
+print("This solution calculates ages in 2025")
+print("*************************************")
 
 
 #Receive user's age input
