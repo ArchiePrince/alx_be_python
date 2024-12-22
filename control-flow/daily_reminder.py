@@ -34,7 +34,7 @@ while True:
         continue
 
     # Print the customized reminder
-    print("\nReminder:", reminder)
+    print(f"Reminder: {reminder}")
 
     # Check if the user wants to enter another task
     another = input("Do you want to enter another task? (yes/no): ").strip().lower()
