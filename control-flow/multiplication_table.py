@@ -11,4 +11,4 @@ quotient = int(input('Enter a number to see its multiplication table: '))
 #Print the times table from 1-10
 for i in range(1, 11):
     product = quotient * i
-    print(f"{quotient} x {i} = {product}")
+    print(quotient, "x", i,  "=", product)
