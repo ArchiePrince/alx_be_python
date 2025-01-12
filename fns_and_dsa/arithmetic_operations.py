@@ -1,7 +1,7 @@
 # Title: Arithmetic Operation Function
 # Author: Archie Prince
-# Filename: daily_reminder.py
-# Date: 22.12.2024
+# Filename: arithmetic_operations.py
+# Date: 12.01.2025
 # Objective: A script to define a function that performs basic arithmetic operations. 
 # This function, perform_operation, will be imported and used in a separate main.py script, provided.
 
