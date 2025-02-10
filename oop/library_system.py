@@ -1,4 +1,4 @@
-# Title:  Dive into Python Magic Methods
+# Title:  Mastering Inheritance and Composition in Python
 # Author: Archie Prince
 # Filename: library_system.py
 # Date: 10.02.2025
